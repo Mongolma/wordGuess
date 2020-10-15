@@ -1,0 +1,19 @@
+{
+  "name": "wordguess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "letter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mongolma/wordGuess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mongolma/wordGuess/issues"
+  },
+  "homepage": "https://github.com/Mongolma/wordGuess#readme"
+}
